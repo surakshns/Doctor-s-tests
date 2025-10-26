@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/doctor-cal/static/css/main.de4a1398.css",
+    "main.js": "/doctor-cal/static/js/main.6272d251.js",
+    "static/js/453.c9e504e7.chunk.js": "/doctor-cal/static/js/453.c9e504e7.chunk.js",
+    "index.html": "/doctor-cal/index.html",
+    "main.de4a1398.css.map": "/doctor-cal/static/css/main.de4a1398.css.map",
+    "main.6272d251.js.map": "/doctor-cal/static/js/main.6272d251.js.map",
+    "453.c9e504e7.chunk.js.map": "/doctor-cal/static/js/453.c9e504e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4a1398.css",
+    "static/js/main.6272d251.js"
+  ]
+}
