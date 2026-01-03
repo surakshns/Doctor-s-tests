@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useMemo } from "react";
 
 export default function WellnessAdvancedROIDashboard() {
-  // -------------------- State with persistence --------------------
+  // -------------------- State with persistencess --------------------
   const [employees, setEmployees] = useState(() => {
     try { return JSON.parse(localStorage.getItem("ew_employees")) || []; } catch { return []; }
   });
